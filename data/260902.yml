@@ -1,0 +1,61 @@
+about:
+  description: The CLI for Apollo GraphOS
+  license: NOASSERTION
+  homepage: https://rover.apollo.dev
+  head: f26bbfc
+  archived: false
+  latestVersion: v0.41.0
+  collectedAt: 2026-09-02T04:28:44Z
+timeline:
+  created: 2020-07-14
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-09
+popularity:
+  star: 453
+  watcher: 25
+  fork: 93
+  release: 173
+  contributor: 106
+  pullRequest: 391
+  issue: 796
+language:
+  Rust: 3049254
+  Shell: 13076
+  PowerShell: 3823
+  Dockerfile: 1100
+  JavaScript: 760
+  RenderScript: 1
+totalLine: 3068014
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 73
+    openPR: 13
+    closedIssue: 0
+    openIssue: 0
+    commit: 71
+  last90d:
+    since: 2026-06-04
+    release: 5
+    mergedPR: 251
+    openPR: 14
+    closedIssue: 3
+    openIssue: 1
+    commit: 247
+  last180d:
+    since: 2026-03-06
+    release: 12
+    mergedPR: 543
+    openPR: 14
+    closedIssue: 8
+    openIssue: 1
+    commit: 550
+  last360d:
+    since: 2025-09-07
+    release: 21
+    mergedPR: 826
+    openPR: 14
+    closedIssue: 25
+    openIssue: 2
+    commit: 825
