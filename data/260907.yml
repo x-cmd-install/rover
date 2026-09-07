@@ -2,13 +2,13 @@ about:
   description: "The CLI for Apollo GraphOS"
   license: NOASSERTION
   homepage: https://rover.apollo.dev
-  head: 1e2fe34
+  head: 2d6c3ba
   archived: false
   latestVersion: "v0.41.0"
-  collectedAt: 2026-09-07T05:47:43Z
+  collectedAt: 2026-09-07T18:38:49Z
 timeline:
   created: 2020-07-14
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-07-09
 popularity:
   star: 453
@@ -16,7 +16,7 @@ popularity:
   fork: 93
   release: 173
   contributor: 106
-  pullRequest: 2858
+  pullRequest: 2860
   issue: 796
 language:
   Rust: 3171312
@@ -30,61 +30,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 73
-    openPR: 15
+    mergedPR: 74
+    openPR: 16
     closedIssue: 0
     openIssue: 0
-    commit: 60
+    commit: 61
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 160
-    openPR: 15
+    mergedPR: 161
+    openPR: 16
     closedIssue: 0
     openIssue: 0
-    commit: 151
+    commit: 152
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 244
-    openPR: 15
+    mergedPR: 245
+    openPR: 16
     closedIssue: 3
     openIssue: 1
-    commit: 234
+    commit: 235
   last180d:
     since: 2026-03-11
     release: 12
-    mergedPR: 557
-    openPR: 16
+    mergedPR: 558
+    openPR: 17
     closedIssue: 8
     openIssue: 1
-    commit: 564
+    commit: 565
   last360d:
     since: 2025-09-12
     release: 20
-    mergedPR: 835
-    openPR: 16
+    mergedPR: 836
+    openPR: 17
     closedIssue: 25
     openIssue: 2
-    commit: 836
+    commit: 837
   last720d:
     since: 2024-09-17
     release: 56
-    mergedPR: 1291
-    openPR: 16
+    mergedPR: 1292
+    openPR: 17
     closedIssue: 56
     openIssue: 10
-    commit: 1260
+    commit: 1261
 total:
   release: 173
-  mergedPR: 2461
-  openPR: 16
+  mergedPR: 2462
+  openPR: 17
   closedIssue: 688
   openIssue: 108
-  commit: 2754
+  commit: 2755
 ---
 path: /home/runner/.x-repo/github.com/apollographql/rover
-collectedAt: 2026-09-07T05:47:51Z
+collectedAt: 2026-09-07T18:38:54Z
 loc:
   Rust:
     code: 74697
@@ -284,7 +284,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:47:56+00:00
+  collectedAt: 2026-09-07T18:38:55+00:00
   platform:
     darwin/arm64:
       name:  rover-v0.41.0-aarch64-apple-darwin.tar.gz
