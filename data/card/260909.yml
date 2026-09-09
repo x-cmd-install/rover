@@ -2,15 +2,15 @@ about:
   description: "The CLI for Apollo GraphOS"
   license: NOASSERTION
   homepage: https://rover.apollo.dev
-  head: ad67907
+  head: b47f716
   archived: false
   latestVersion: "v0.41.0"
   latestRelease: "v0.41.0"
   latestPrerelease: "v0.41.0-rc.2"
-  collectedAt: 2026-09-09T05:56:39Z
+  collectedAt: 2026-09-09T20:21:47Z
 timeline:
   created: 2020-07-14
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-07-09
   lastRelease: 2026-07-09
   lastPrerelease: 2026-07-09
@@ -19,81 +19,81 @@ popularity:
   watcher: 25
   fork: 93
   release: 173
-  contributor: 106
-  pullRequest: 2865
+  contributor: 107
+  pullRequest: 2870
   issue: 796
 language:
-  Rust: 3179822
+  Rust: 3180851
   Shell: 13076
   PowerShell: 3823
   Dockerfile: 1100
   JavaScript: 760
   RenderScript: 1
-totalBytes: 3198582
+totalBytes: 3199611
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 81
-    openPR: 10
+    mergedPR: 84
+    openPR: 12
     closedIssue: 0
     openIssue: 0
-    commit: 71
+    commit: 74
   last60d:
     since: 2026-07-11
     release: 0
-    mergedPR: 169
-    openPR: 10
+    mergedPR: 172
+    openPR: 12
     closedIssue: 0
     openIssue: 0
-    commit: 162
+    commit: 165
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 245
-    openPR: 10
+    mergedPR: 248
+    openPR: 12
     closedIssue: 3
     openIssue: 1
-    commit: 245
+    commit: 248
   last180d:
     since: 2026-03-13
     release: 12
-    mergedPR: 568
-    openPR: 11
+    mergedPR: 571
+    openPR: 13
     closedIssue: 8
     openIssue: 1
-    commit: 575
+    commit: 578
   last360d:
     since: 2025-09-14
     release: 20
-    mergedPR: 844
-    openPR: 11
+    mergedPR: 847
+    openPR: 13
     closedIssue: 25
     openIssue: 2
-    commit: 847
+    commit: 850
   last720d:
     since: 2024-09-19
     release: 55
-    mergedPR: 1289
-    openPR: 11
+    mergedPR: 1292
+    openPR: 13
     closedIssue: 56
     openIssue: 10
-    commit: 1270
+    commit: 1273
 total:
   release: 173
-  mergedPR: 2472
-  openPR: 11
+  mergedPR: 2475
+  openPR: 13
   closedIssue: 688
   openIssue: 108
-  commit: 2765
+  commit: 2768
 ---
 path: /home/runner/.x-repo/github.com/apollographql/rover
-collectedAt: 2026-09-09T05:56:48Z
+collectedAt: 2026-09-09T20:21:54Z
 loc:
   Rust:
-    code: 74871
+    code: 74883
     comments: 2405
-    blanks: 9578
+    blanks: 9581
     files: 679
   Json:
     code: 16001
@@ -156,9 +156,9 @@ loc:
     blanks: 2623
     files: 74
 total:
-  code: 96229
-  comments: 10137
-  blanks: 13047
+  code: 96241
+  comments: 10145
+  blanks: 13050
   files: 898
 ---
 date: "2026-09-07"
