@@ -14,11 +14,11 @@ x install rover
 
 ## Code insight
 
-Total: **96,781** lines of code across **809** files in the top 5 languages.
+Total: **97,012** lines of code across **811** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 75,663 | 2,426 | 9,646 | 681 |
+| Rust | 75,894 | 2,426 | 9,666 | 683 |
 | Json | 16,001 | 0 | 0 | 6 |
 | Graphql | 3,295 | 12 | 377 | 91 |
 | Toml | 963 | 85 | 132 | 24 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 2483 · **Open PRs**: 12 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2776
+- **Releases**: 173 · **Merged PRs**: 2486 · **Open PRs**: 13 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2779
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 81 | 11 | 0 | 0 | 82 |
-| last60d | 2026-07-13 | 0 | 175 | 11 | 0 | 0 | 173 |
-| 90d | 2026-06-13 | 5 | 254 | 11 | 3 | 1 | 256 |
-| last180d | 2026-03-15 | 12 | 579 | 12 | 8 | 1 | 586 |
-| 360d | 2025-09-16 | 20 | 855 | 12 | 25 | 2 | 858 |
-| last720d | 2024-09-21 | 55 | 1298 | 12 | 56 | 10 | 1279 |
+| 30d | 2026-08-12 | 0 | 84 | 12 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 178 | 12 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 5 | 257 | 12 | 3 | 1 | 0 |
+| last180d | 2026-03-15 | 12 | 582 | 13 | 8 | 1 | 0 |
+| 360d | 2025-09-16 | 20 | 858 | 13 | 25 | 2 | 0 |
+| last720d | 2024-09-21 | 55 | 1301 | 13 | 56 | 10 | 1282 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:53:56Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:58:19Z._
