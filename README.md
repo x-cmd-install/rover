@@ -14,13 +14,13 @@ x install rover
 
 ## Code insight
 
-Total: **97,012** lines of code across **811** files in the top 5 languages.
+Total: **98,265** lines of code across **816** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 75,894 | 2,426 | 9,666 | 683 |
+| Rust | 77,124 | 2,436 | 9,800 | 687 |
 | Json | 16,001 | 0 | 0 | 6 |
-| Graphql | 3,295 | 12 | 377 | 91 |
+| Graphql | 3,318 | 12 | 377 | 92 |
 | Toml | 963 | 85 | 132 | 24 |
 | Yaml | 338 | 39 | 22 | 7 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.41.0` (2026-07-09)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-15
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 2487 · **Open PRs**: 15 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2780
+- **Releases**: 173 · **Merged PRs**: 2500 · **Open PRs**: 14 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2793
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 80 | 14 | 0 | 0 | 72 |
-| last60d | 2026-07-16 | 0 | 167 | 14 | 0 | 0 | 149 |
-| 90d | 2026-06-16 | 5 | 251 | 14 | 3 | 1 | 251 |
-| last180d | 2026-03-18 | 12 | 557 | 15 | 7 | 1 | 541 |
-| 360d | 2025-09-19 | 20 | 856 | 15 | 24 | 2 | 850 |
-| last720d | 2024-09-24 | 55 | 1299 | 15 | 56 | 10 | 1283 |
+| 30d | 2026-08-17 | 0 | 91 | 13 | 0 | 0 | 85 |
+| last60d | 2026-07-18 | 0 | 175 | 13 | 0 | 0 | 162 |
+| 90d | 2026-06-18 | 5 | 256 | 13 | 3 | 1 | 264 |
+| last180d | 2026-03-20 | 12 | 557 | 14 | 7 | 1 | 554 |
+| 360d | 2025-09-21 | 20 | 868 | 14 | 24 | 2 | 863 |
+| last720d | 2024-09-26 | 55 | 1305 | 14 | 56 | 10 | 1293 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:15:08Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:15:23Z._
