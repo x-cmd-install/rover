@@ -4,7 +4,7 @@
 
 The CLI for Apollo GraphOS
 
-[![x-cmd/install — rover Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rover.svg)](https://x-cmd.com/install/rover)
+[![x-cmd/install — rover Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rover.svg)](https://x-cmd.com/install/rover)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install rover
 
 ## Code insight
 
-Total: **100,394** lines of code across **822** files in the top 5 languages.
+Total: **101,243** lines of code across **826** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 79,227 | 2,520 | 10,074 | 692 |
+| Rust | 80,076 | 2,559 | 10,251 | 696 |
 | Json | 16,001 | 0 | 0 | 6 |
 | Graphql | 3,343 | 12 | 377 | 93 |
 | Toml | 964 | 85 | 132 | 24 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.41.0` (2026-07-09)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 2517 · **Open PRs**: 23 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2815
+- **Releases**: 173 · **Merged PRs**: 2525 · **Open PRs**: 18 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2823
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 91 | 21 | 0 | 0 | 81 |
-| last60d | 2026-07-24 | 0 | 172 | 22 | 0 | 0 | 164 |
-| 90d | 2026-06-24 | 5 | 263 | 22 | 0 | 0 | 263 |
-| last180d | 2026-03-26 | 12 | 562 | 23 | 7 | 1 | 556 |
-| 360d | 2025-09-27 | 20 | 880 | 23 | 24 | 2 | 874 |
-| last720d | 2024-10-02 | 54 | 1320 | 23 | 54 | 10 | 1305 |
+| 30d | 2026-08-24 | 0 | 95 | 15 | 0 | 0 | 89 |
+| last60d | 2026-07-25 | 0 | 179 | 17 | 0 | 0 | 172 |
+| 90d | 2026-06-25 | 5 | 269 | 17 | 0 | 0 | 271 |
+| last180d | 2026-03-27 | 12 | 566 | 18 | 7 | 1 | 564 |
+| 360d | 2025-09-28 | 20 | 888 | 18 | 24 | 2 | 882 |
+| last720d | 2024-10-03 | 54 | 1325 | 18 | 54 | 10 | 1308 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:16:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:17:54Z._
