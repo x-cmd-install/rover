@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.41.0` (2026-07-09)
-- **Last commit**: 2026-10-03
+- **Latest**: `v1.0.0-rc.1` (2026-07-09)
+- **Last commit**: 2026-10-04
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 454 · **Forks**: 93 · **Open issues**: 796 · **Contributors**: 108
+- **Stars**: 454 · **Forks**: 92 · **Open issues**: 796 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 2696 · **Open PRs**: 8 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2986
+- **Releases**: 174 · **Merged PRs**: 2699 · **Open PRs**: 9 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 2989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 232 | 2 | 0 | 0 | 234 |
-| last60d | 2026-08-04 | 0 | 321 | 8 | 0 | 0 | 320 |
-| 90d | 2026-07-05 | 2 | 412 | 8 | 0 | 0 | 413 |
-| last180d | 2026-04-06 | 12 | 696 | 8 | 7 | 1 | 693 |
-| 360d | 2025-10-08 | 15 | 1037 | 8 | 18 | 2 | 1036 |
-| last720d | 2024-10-13 | 54 | 1469 | 8 | 52 | 10 | 1453 |
+| 30d | 2026-09-04 | 1 | 233 | 3 | 0 | 0 | 214 |
+| last60d | 2026-08-05 | 1 | 321 | 9 | 0 | 0 | 299 |
+| 90d | 2026-07-06 | 3 | 414 | 9 | 0 | 0 | 404 |
+| last180d | 2026-04-07 | 13 | 695 | 9 | 7 | 1 | 678 |
+| 360d | 2025-10-09 | 16 | 1040 | 9 | 18 | 2 | 1029 |
+| last720d | 2024-10-14 | 55 | 1471 | 9 | 52 | 10 | 1456 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:13:47Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:46:39Z._
