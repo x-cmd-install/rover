@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18290904,
       "digest": "sha256:f1e7fa4ae5607e5e9d6bf3a9db0902f3601fb25a27137bc0b71da0490399d4de",
-      "download_count": 24,
+      "download_count": 127,
       "created_at": "2026-10-06T23:26:23Z",
       "updated_at": "2026-10-06T23:26:25Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20468532,
       "digest": "sha256:f0f173d1568fb31da5b56b7e346bd7965663b55e09a96cd5b0b178afe831e134",
-      "download_count": 24,
+      "download_count": 284,
       "created_at": "2026-10-06T23:26:23Z",
       "updated_at": "2026-10-06T23:26:25Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19150129,
       "digest": "sha256:f140467fcc16f7da72efe1dae31442d7148044295db777e31f9f29438925e80d",
-      "download_count": 3,
+      "download_count": 25,
       "created_at": "2026-10-06T23:26:23Z",
       "updated_at": "2026-10-06T23:26:25Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17728730,
       "digest": "sha256:5d25de34ebb96d2a749f37753010834799900f7ca25b487ed22624bd83473c28",
-      "download_count": 3,
+      "download_count": 26,
       "created_at": "2026-10-06T23:26:24Z",
       "updated_at": "2026-10-06T23:26:25Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-x86_64-pc-windows-msvc.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20142342,
       "digest": "sha256:3d239afa5a625ae5106376ce3030e85b1d40a52f13b047c33a64713cf8c7abe3",
-      "download_count": 1744,
+      "download_count": 9505,
       "created_at": "2026-10-06T23:26:24Z",
       "updated_at": "2026-10-06T23:26:25Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12770470,
       "digest": "sha256:aeb048904787e6513f36d12d4b6cd34d4e72bba8cd112e2f939f39ae3f8c1ac8",
-      "download_count": 113,
+      "download_count": 618,
       "created_at": "2026-10-06T23:26:25Z",
       "updated_at": "2026-10-06T23:26:26Z",
       "browser_download_url": "https://github.com/apollographql/rover/releases/download/v1.0.0/rover-v1.0.0-x86_64-unknown-linux-musl.tar.gz"
