@@ -30,8 +30,8 @@ x install rover
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -52,18 +52,18 @@ x install rover
 
 ## 累计统计
 
-- **发布数**: 175 · **已合并 PR**: 2757 · **开放 PR**: 12 · **已关闭 issue**: 688 · **开放 issue**: 108 · **提交数**: 3042
+- **发布数**: 175 · **已合并 PR**: 2757 · **开放 PR**: 16 · **已关闭 issue**: 688 · **开放 issue**: 108 · **提交数**: 3042
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 265 | 6 | 0 | 0 | 238 |
-| last60d | 2026-08-13 | 2 | 353 | 12 | 0 | 0 | 337 |
-| 90d | 2026-07-14 | 2 | 447 | 12 | 0 | 0 | 423 |
-| last180d | 2026-04-15 | 13 | 732 | 12 | 7 | 1 | 714 |
-| 360d | 2025-10-17 | 17 | 1075 | 12 | 18 | 2 | 1061 |
-| last720d | 2024-10-22 | 56 | 1519 | 12 | 51 | 10 | 1494 |
+| 30d | 2026-09-13 | 2 | 263 | 10 | 0 | 0 | 238 |
+| last60d | 2026-08-14 | 2 | 350 | 16 | 0 | 0 | 337 |
+| 90d | 2026-07-15 | 2 | 442 | 16 | 0 | 0 | 423 |
+| last180d | 2026-04-16 | 13 | 726 | 16 | 7 | 1 | 714 |
+| 360d | 2025-10-18 | 17 | 1075 | 16 | 18 | 2 | 1061 |
+| last720d | 2024-10-23 | 56 | 1519 | 16 | 51 | 10 | 1493 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ rover 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:02:13Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:58:07Z._

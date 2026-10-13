@@ -30,8 +30,8 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 2757 · **Open PRs**: 12 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 3042
+- **Releases**: 175 · **Merged PRs**: 2757 · **Open PRs**: 16 · **Closed issues**: 688 · **Open issues**: 108 · **Commits**: 3042
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 265 | 6 | 0 | 0 | 238 |
-| last60d | 2026-08-13 | 2 | 353 | 12 | 0 | 0 | 337 |
-| 90d | 2026-07-14 | 2 | 447 | 12 | 0 | 0 | 423 |
-| last180d | 2026-04-15 | 13 | 732 | 12 | 7 | 1 | 714 |
-| 360d | 2025-10-17 | 17 | 1075 | 12 | 18 | 2 | 1061 |
-| last720d | 2024-10-22 | 56 | 1519 | 12 | 51 | 10 | 1494 |
+| 30d | 2026-09-13 | 2 | 263 | 10 | 0 | 0 | 238 |
+| last60d | 2026-08-14 | 2 | 350 | 16 | 0 | 0 | 337 |
+| 90d | 2026-07-15 | 2 | 442 | 16 | 0 | 0 | 423 |
+| last180d | 2026-04-16 | 13 | 726 | 16 | 7 | 1 | 714 |
+| 360d | 2025-10-18 | 17 | 1075 | 16 | 18 | 2 | 1061 |
+| last720d | 2024-10-23 | 56 | 1519 | 16 | 51 | 10 | 1493 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:02:12Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:58:06Z._
