@@ -42,18 +42,18 @@ Total: **138,352** lines of code across **934** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 2890 · **Open PRs**: 19 · **Closed issues**: 694 · **Open issues**: 103 · **Commits**: 3175
+- **Releases**: 176 · **Merged PRs**: 2890 · **Open PRs**: 20 · **Closed issues**: 694 · **Open issues**: 103 · **Commits**: 3175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 120 | 15 | 0 | 2 | 125 |
-| last60d | 2026-09-15 | 3 | 383 | 15 | 0 | 2 | 380 |
-| 90d | 2026-08-16 | 3 | 482 | 19 | 0 | 2 | 477 |
-| last180d | 2026-05-18 | 13 | 760 | 19 | 6 | 3 | 755 |
-| 360d | 2025-11-19 | 18 | 1124 | 19 | 16 | 3 | 1117 |
-| last720d | 2024-11-24 | 57 | 1622 | 19 | 48 | 11 | 1602 |
+| 30d | 2026-10-16 | 1 | 117 | 16 | 0 | 2 | 97 |
+| last60d | 2026-09-16 | 3 | 378 | 16 | 0 | 2 | 350 |
+| 90d | 2026-08-17 | 3 | 480 | 20 | 0 | 2 | 462 |
+| last180d | 2026-05-19 | 13 | 753 | 20 | 6 | 3 | 732 |
+| 360d | 2025-11-20 | 18 | 1121 | 20 | 16 | 3 | 1102 |
+| last720d | 2024-11-25 | 57 | 1622 | 20 | 48 | 11 | 1602 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:53:31Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:57Z._
