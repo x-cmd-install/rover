@@ -33,7 +33,7 @@ Total: **138,352** lines of code across **934** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.1` (2026-10-21)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **138,352** lines of code across **934** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 2890 · **Open PRs**: 20 · **Closed issues**: 694 · **Open issues**: 103 · **Commits**: 3175
+- **Releases**: 176 · **Merged PRs**: 2892 · **Open PRs**: 22 · **Closed issues**: 694 · **Open issues**: 103 · **Commits**: 3177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 117 | 16 | 0 | 2 | 97 |
-| last60d | 2026-09-16 | 3 | 378 | 16 | 0 | 2 | 350 |
-| 90d | 2026-08-17 | 3 | 480 | 20 | 0 | 2 | 462 |
-| last180d | 2026-05-19 | 13 | 753 | 20 | 6 | 3 | 732 |
-| 360d | 2025-11-20 | 18 | 1121 | 20 | 16 | 3 | 1102 |
-| last720d | 2024-11-25 | 57 | 1622 | 20 | 48 | 11 | 1602 |
+| 30d | 2026-10-17 | 1 | 115 | 18 | 0 | 2 | 99 |
+| last60d | 2026-09-17 | 3 | 369 | 18 | 0 | 2 | 352 |
+| 90d | 2026-08-18 | 3 | 478 | 22 | 0 | 2 | 464 |
+| last180d | 2026-05-20 | 10 | 750 | 22 | 6 | 3 | 734 |
+| 360d | 2025-11-21 | 18 | 1121 | 22 | 16 | 3 | 1104 |
+| last720d | 2024-11-26 | 57 | 1624 | 22 | 48 | 11 | 1600 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:57Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:17:51Z._
