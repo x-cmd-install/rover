@@ -24,16 +24,6 @@ Total: **139,543** lines of code across **936** files in the top 5 languages.
 | Toml | 1,006 | 107 | 139 | 24 |
 | Yaml | 344 | 39 | 22 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.2 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-
 ## Source
 
 - **Upstream**: <https://github.com/apollographql/rover>
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1.0` (2026-11-19)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 2936 · **Open PRs**: 23 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3221
+- **Releases**: 177 · **Merged PRs**: 2942 · **Open PRs**: 24 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 124 | 19 | 1 | 0 | 118 |
-| last60d | 2026-09-24 | 4 | 373 | 19 | 1 | 1 | 336 |
-| 90d | 2026-08-25 | 4 | 496 | 19 | 1 | 1 | 483 |
-| last180d | 2026-05-27 | 10 | 775 | 23 | 5 | 2 | 747 |
-| 360d | 2025-11-28 | 19 | 1148 | 23 | 17 | 2 | 1139 |
-| last720d | 2024-12-03 | 58 | 1661 | 23 | 48 | 10 | 1639 |
+| 30d | 2026-10-25 | 1 | 129 | 20 | 1 | 0 | 124 |
+| last60d | 2026-09-25 | 4 | 372 | 20 | 1 | 1 | 342 |
+| 90d | 2026-08-26 | 4 | 497 | 20 | 1 | 1 | 489 |
+| last180d | 2026-05-28 | 10 | 778 | 24 | 5 | 2 | 753 |
+| 360d | 2025-11-29 | 19 | 1153 | 24 | 17 | 2 | 1145 |
+| last720d | 2024-12-04 | 58 | 1665 | 24 | 48 | 9 | 1643 |
 
 ## Release assets
 
@@ -89,4 +79,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:19:40Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:31:56Z._
