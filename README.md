@@ -14,14 +14,14 @@ x install rover
 
 ## Code insight
 
-Total: **139,543** lines of code across **936** files in the top 5 languages.
+Total: **139,629** lines of code across **937** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 118,228 | 3,790 | 14,737 | 799 |
+| Rust | 118,313 | 3,790 | 14,753 | 800 |
 | Json | 16,001 | 0 | 0 | 6 |
 | Graphql | 3,443 | 12 | 377 | 100 |
-| Toml | 1,006 | 107 | 139 | 24 |
+| Toml | 1,007 | 107 | 139 | 24 |
 | Yaml | 344 | 39 | 22 | 7 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **139,543** lines of code across **936** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.0` (2026-11-19)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **139,543** lines of code across **936** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 2942 · **Open PRs**: 24 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3227
+- **Releases**: 177 · **Merged PRs**: 2946 · **Open PRs**: 22 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 129 | 20 | 1 | 0 | 124 |
-| last60d | 2026-09-25 | 4 | 372 | 20 | 1 | 1 | 342 |
-| 90d | 2026-08-26 | 4 | 497 | 20 | 1 | 1 | 489 |
-| last180d | 2026-05-28 | 10 | 778 | 24 | 5 | 2 | 753 |
-| 360d | 2025-11-29 | 19 | 1153 | 24 | 17 | 2 | 1145 |
-| last720d | 2024-12-04 | 58 | 1665 | 24 | 48 | 9 | 1643 |
+| 30d | 2026-10-26 | 1 | 130 | 18 | 1 | 0 | 128 |
+| last60d | 2026-09-26 | 4 | 374 | 18 | 1 | 1 | 346 |
+| 90d | 2026-08-27 | 4 | 500 | 18 | 1 | 1 | 493 |
+| last180d | 2026-05-29 | 9 | 777 | 22 | 5 | 2 | 757 |
+| 360d | 2025-11-30 | 19 | 1157 | 22 | 17 | 2 | 1149 |
+| last720d | 2024-12-05 | 58 | 1666 | 22 | 48 | 9 | 1645 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:31:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:21:46Z._
