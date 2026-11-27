@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 2951 · **Open PRs**: 18 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3236
+- **Releases**: 177 · **Merged PRs**: 2951 · **Open PRs**: 19 · **Closed issues**: 695 · **Open issues**: 102 · **Commits**: 3236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 131 | 14 | 1 | 0 | 133 |
-| last60d | 2026-09-27 | 4 | 379 | 14 | 1 | 1 | 351 |
-| 90d | 2026-08-28 | 4 | 502 | 14 | 1 | 1 | 498 |
-| last180d | 2026-05-30 | 9 | 782 | 18 | 5 | 2 | 762 |
-| 360d | 2025-12-01 | 19 | 1161 | 18 | 17 | 2 | 1154 |
-| last720d | 2024-12-06 | 58 | 1670 | 18 | 48 | 9 | 1649 |
+| 30d | 2026-10-28 | 1 | 129 | 15 | 1 | 0 | 133 |
+| last60d | 2026-09-28 | 4 | 357 | 15 | 1 | 1 | 351 |
+| 90d | 2026-08-29 | 4 | 502 | 15 | 1 | 1 | 498 |
+| last180d | 2026-05-31 | 9 | 781 | 19 | 5 | 2 | 762 |
+| 360d | 2025-12-02 | 19 | 1158 | 19 | 17 | 2 | 1154 |
+| last720d | 2024-12-07 | 58 | 1668 | 19 | 48 | 9 | 1648 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rover lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:15:22Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:05:30Z._
